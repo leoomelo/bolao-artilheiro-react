@@ -1,0 +1,181 @@
+{
+    "data": [
+      {
+        "id": 189718,
+        "idCountry": 13,
+        "countryName": "Brazil",
+        "idLeague": 131,
+        "leagueName": "Brasileirão",
+        "idSeason": 1333,
+        "seasonName": "Brasileirão - 2020",
+        "idHome": 1672,
+        "homeName": "Fortaleza",
+        "idAway": 1658,
+        "awayName": "Coritiba",
+        "idStage": 1852,
+        "idVenue": 1648,
+        "venueName": "Estádio Governador Plácido Aderaldo Castelo",
+        "date": "2021-02-04 21:30:00",
+        "status": "not started",
+        "round": 34,
+        "attendance": null,
+        "team_home_90min_goals": 0,
+        "team_away_90min_goals": 0,
+        "team_home_ET_goals": 0,
+        "team_away_ET_goals": 0,
+        "team_home_PEN_goals": 0,
+        "team_away_PEN_goals": 0,
+        "team_home_1stHalf_goals": 0,
+        "team_away_1stHalf_goals": 0,
+        "team_home_2ndHalf_goals": 0,
+        "team_away_2ndHalf_goals": 0,
+        "elapsed": 0,
+        "elapsedPlus": 0,
+        "eventsHash": "989db2448f309bfdd99b513f37c84b8f5794d2b5",
+        "lineupsHash": "989db2448f309bfdd99b513f37c84b8f5794d2b5",
+        "statsHash": "989db2448f309bfdd99b513f37c84b8f5794d2b5",
+        "referees": [
+          {
+            "type": "referee",
+            "idReferee": 48271,
+            "refereeName": "Anderson Daronco"
+          },
+          {
+            "type": "assitant referee",
+            "idReferee": 42437,
+            "refereeName": "Rafael da Silva Alves"
+          },
+          {
+            "type": "assitant referee",
+            "idReferee": 48275,
+            "refereeName": "Michael Stanislau"
+          },
+          {
+            "type": "assitant referee",
+            "idReferee": 107351,
+            "refereeName": "Antonio Magno Lima Cordeiro"
+          }
+        ]
+      },
+      {
+        "id": 189719,
+        "idCountry": 13,
+        "countryName": "Brazil",
+        "idLeague": 131,
+        "leagueName": "Brasileirão",
+        "idSeason": 1333,
+        "seasonName": "Brasileirão - 2020",
+        "idHome": 1664,
+        "homeName": "Atlético PR",
+        "idAway": 1670,
+        "awayName": "Internacional",
+        "idStage": 1852,
+        "idVenue": null,
+        "venueName": null,
+        "date": "2021-02-05 00:00:00",
+        "status": "not started",
+        "round": 34,
+        "attendance": null,
+        "team_home_90min_goals": 0,
+        "team_away_90min_goals": 0,
+        "team_home_ET_goals": 0,
+        "team_away_ET_goals": 0,
+        "team_home_PEN_goals": 0,
+        "team_away_PEN_goals": 0,
+        "team_home_1stHalf_goals": 0,
+        "team_away_1stHalf_goals": 0,
+        "team_home_2ndHalf_goals": 0,
+        "team_away_2ndHalf_goals": 0,
+        "elapsed": 0,
+        "elapsedPlus": 0,
+        "eventsHash": "989db2448f309bfdd99b513f37c84b8f5794d2b5",
+        "lineupsHash": "989db2448f309bfdd99b513f37c84b8f5794d2b5",
+        "statsHash": "989db2448f309bfdd99b513f37c84b8f5794d2b5",
+        "referees": [
+          {
+            "type": "referee",
+            "idReferee": 47990,
+            "refereeName": "Ricardo Marques"
+          },
+          {
+            "type": "assitant referee",
+            "idReferee": 48301,
+            "refereeName": "Guilherme Dias Camilo"
+          },
+          {
+            "type": "assitant referee",
+            "idReferee": 47920,
+            "refereeName": "Celso Luiz Da Silva"
+          },
+          {
+            "type": "assitant referee",
+            "idReferee": 48583,
+            "refereeName": "Lucas Torezin"
+          }
+        ]
+      },
+      {
+        "id": 189720,
+        "idCountry": 13,
+        "countryName": "Brazil",
+        "idLeague": 131,
+        "leagueName": "Brasileirão",
+        "idSeason": 1333,
+        "seasonName": "Brasileirão - 2020",
+        "idHome": 1649,
+        "homeName": "Flamengo",
+        "idAway": 1662,
+        "awayName": "Vasco da Gama",
+        "idStage": 1852,
+        "idVenue": null,
+        "venueName": null,
+        "date": "2021-02-05 00:00:00",
+        "status": "not started",
+        "round": 34,
+        "attendance": null,
+        "team_home_90min_goals": 0,
+        "team_away_90min_goals": 0,
+        "team_home_ET_goals": 0,
+        "team_away_ET_goals": 0,
+        "team_home_PEN_goals": 0,
+        "team_away_PEN_goals": 0,
+        "team_home_1stHalf_goals": 0,
+        "team_away_1stHalf_goals": 0,
+        "team_home_2ndHalf_goals": 0,
+        "team_away_2ndHalf_goals": 0,
+        "elapsed": 0,
+        "elapsedPlus": 0,
+        "eventsHash": "989db2448f309bfdd99b513f37c84b8f5794d2b5",
+        "lineupsHash": "989db2448f309bfdd99b513f37c84b8f5794d2b5",
+        "statsHash": "989db2448f309bfdd99b513f37c84b8f5794d2b5",
+        "referees": [
+          {
+            "type": "referee",
+            "idReferee": 42187,
+            "refereeName": "Raphael Claus"
+          },
+          {
+            "type": "assitant referee",
+            "idReferee": 42191,
+            "refereeName": "Danilo Ricardo Simon Manis"
+          },
+          {
+            "type": "assitant referee",
+            "idReferee": 42189,
+            "refereeName": "Alex Ang Ribeiro"
+          },
+          {
+            "type": "assitant referee",
+            "idReferee": 48775,
+            "refereeName": "Pathrice Wallace Correa Maia"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "page": 1,
+      "itemsPerPage": 25,
+      "hasNextPage": false,
+      "hasPrevPage": false
+    }
+}
