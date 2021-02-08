@@ -1,5 +1,3 @@
-const LEAGUES = ['Brasileiro - Série A', 'Libertadores', 'Brasileiro - Série B'];
-
 function LeagueContainer() {
     return(
         <>
