@@ -10,7 +10,7 @@ const URL = "https://www.gazetaesportiva.com/placar-ao-vivo/"
 
 const allMatchesToday = async () => {
   const matches = []
-  const result = await axios.get(`https://cors-anywhere.herokuapp.com/` + URL)
+  const result = await axios.get(URL)
 
   // const request = new Request(URL, {
   //   method: 'GET',
