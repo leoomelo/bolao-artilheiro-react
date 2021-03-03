@@ -1,5 +1,6 @@
 import Card from '../Card';
 import { useEffect, useState } from 'react';
+// import matchesJson from '../../config/db/matches.json'
 import axios from 'axios';
 
 const CardContainer = function() {
@@ -13,17 +14,17 @@ const CardContainer = function() {
         }
 
         getMatches().then((result) => {
-            const serieA = result.data.filter( (match) => match.league === 'Brasileiro Série A 2020')
-            setMatches(serieA)
+            const matches = result.data.filter( (match) => match.league === 'Carioca 2021' || match.league === 'Paulista 2021' || match.league === 'Pré-Libertadores da América 2021')
+            setMatches(matches)
         } )
     }, [])
     return(
         <>
             <div className="card-container">
-                {matches.map((match) => (
-                    <Card match={match} />
+                {matches.map((match, index) => (
+                    <Card match={match} key={index} />
                 ))}
-            </div>
+            </div>    
         </>
     )
 }
