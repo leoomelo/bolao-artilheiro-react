@@ -1,8 +1,21 @@
 body {
     font-family: 'Barlow', sans-serif;
     font-weight: 300px;
-    margin-top: 20px;
 }
+
+.container-info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.league-title {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+} 
 
 .menu-background {
     background-image: url(img/gramado.jpeg);
@@ -84,7 +97,7 @@ thead {
 
 @media (min-width: 768px) {
     .card-container {
-        width: 50%;
+        width: auto;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
